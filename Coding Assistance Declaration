@@ -1,0 +1,5 @@
+ChatGPT was used only as a supporting tool to check the correctness and veracity of the Python code used in this project, including code for data preparation, descriptive analysis, visualization, correlation analysis, cross-validation, logistic regression, decision-tree modelling, and evaluation metrics.
+
+The analytical decisions, interpretation of the statistical and modelling results, and the conclusions presented in this report were developed independently by me. ChatGPT was not used to generate or determine the final interpretation of the findings.
+
+I reviewed and executed all code, verified the outputs against the dataset, and takes full responsibility for the methodology, interpretation, comments, conclusions, and overall outcome of the project.
